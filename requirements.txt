@@ -1,0 +1,6 @@
+numpy
+pandas
+pyarrow
+matplotlib
+close_the_u @ git+https://github.jpl.nasa.gov/Europa-PESS/close-the-u-py.git
+dtat @ https://github.jpl.nasa.gov/Europa-PESS/dtat-library.git
