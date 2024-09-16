@@ -1,28 +1,40 @@
 # downlink-analysis-jupyter-cookbooks
 A collection of jupyter 'cookbook' examples for use of EAS Studio and other python APIs
 
-# FSPA Jupyter Notebook
 
-Prototype repository for for Jupyter notebook with FPSA tools.
 
 ## Installation
 
-1. Install DTAT library
+Generally speaking best to use a virtual environment (venv) in a root dev directory.
+
+
+```shell
+python -m venv .venv 
+source .venv/bin/activate.csh
+```
+
+Install the following either by pip install or by cloning repos:
+
+Install DTAT library
 
    https://github.jpl.nasa.gov/Europa-PESS/dtat-library
 
-2. Install Close the U library
+Install Close the U library
 
    https://github.jpl.nasa.gov/Europa-PESS/close-the-u-py
 
-3. Install Jupyter Notebook
+Install Jupyter Notebook
 
    https://jupyter.org/install
 
-4. Install requirements.txt.
+
+Install requirements.txt.
 
 ```shell
 pip install -r requirements.txt
+
+or 
+python -m pip install -r requirements.txt
 ```
 
 ## How to use
