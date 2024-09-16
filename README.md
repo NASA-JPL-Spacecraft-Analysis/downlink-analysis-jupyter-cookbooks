@@ -17,7 +17,7 @@ Install the following either by pip install or by cloning repos:
 
 Install DTAT library
 
-   [https://github.jpl.nasa.gov/Europa-PESS/dtat-library](https://github.jpl.nasa.gov/397/dtat-library)
+   https://github.jpl.nasa.gov/Europa-PESS/dtat-library
 
 Install Close the U library
 
