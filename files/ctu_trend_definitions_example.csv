@@ -1,0 +1,3 @@
+channelId,identifier,dataType,source,description,subsystem,type,externalLink,restricted,units,displayName,version
+,EXAMPLE_TREND_1,float,teamtool,,SYS,trend,,,,,1
+,EXAMPLE_TREND_2,float,teamtool,,SYS,trend,,,,,1

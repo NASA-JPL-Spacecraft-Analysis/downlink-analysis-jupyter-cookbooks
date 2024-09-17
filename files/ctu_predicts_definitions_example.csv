@@ -1,0 +1,3 @@
+channelId,identifier,dataType,source,description,subsystem,type,externalLink,restricted,units,displayName,version
+,EXAMPLE_PREDICT_1,float,teamtool,,SYS,predict,,,,,1
+,EXAMPLE_PREDICT_2,float,teamtool,,SYS,predict,,,,,1
