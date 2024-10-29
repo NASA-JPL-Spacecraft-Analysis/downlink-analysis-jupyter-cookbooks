@@ -39,7 +39,7 @@ python -m pip install -r requirements.txt
 
 ## How to use
 
-Run `jupyter notebook` in the repository and open `FPSA.ipynb` in your browser.
+Run `jupyter notebook` in the repository and open one of the `ipynb` files in your browser.
 
 ## Support, Questions, & Feedback
 
